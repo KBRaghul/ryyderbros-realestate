@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Header.css";
-import { BiMenuAltRight } from "react-icons/Bi";
+import { BiMenuAltRight } from "react-icons/bi";
 import OutsideClickHandler from "react-outside-click-handler";
 
 const Header = () => {
